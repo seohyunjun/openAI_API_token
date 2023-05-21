@@ -9,7 +9,7 @@ Number of tokens: 2675
 
 |MODEL|VERSION|COST|
 |---|---|---|
-|Ada		|v1	$0.0107|
+|Ada		|v1	|$0.0107|
 |Babbage		|v1	|$0.013375|
 |Curie		|v1	|$0.0535|
 |Davinci		|v1	|$0.535|
